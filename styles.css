@@ -1,0 +1,14 @@
+@media screen {
+    #projects{
+        width: 728px;
+    }
+}
+
+#welcome-section {
+    height: 100vh;
+}
+
+#navbar {
+    position: fixed;
+    top:0;
+}
